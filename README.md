@@ -7,7 +7,7 @@ This repository contains a collection of sample codes for various tasks using Ol
 - [Machine Translation](#machine-translation)
 - [Text Generation](#text-generation)
 - [Question Answering](#question-answering)
-- [Speech Recognition](#speech recognition)
+- [Speech Recognition](#speech-recognition)
 ### Data Processing
 This section contains sample codes for data processing tasks, such as tokenization, padding, and batching.
 - [Tokenization](data_processing/tokenization.py)
